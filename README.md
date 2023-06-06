@@ -1,6 +1,6 @@
 # 벽돌깨기 게임(JavaScript)
 
-<img src="./img/readme.png">
+<img src="https://i.postimg.cc/j2wmdPyC/image.png">
 
 ## 귀여운 커비 디자인의 벽돌깨기 게임
 
